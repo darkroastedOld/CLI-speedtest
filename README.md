@@ -2,7 +2,7 @@
 An easy to use command for a CLI speedtest using just one simple remeberable command
 
 ```
-//Make sure you ar in bash
+//Make sure you are in bash
 
 
 ```
